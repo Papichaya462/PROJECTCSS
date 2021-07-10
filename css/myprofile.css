@@ -1,0 +1,23 @@
+#a2 {
+    text-align: center;
+    color: indianred;
+    font-size: 50px;
+    background-color: khaki;
+}
+
+div {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(22, 40, 46);
+    border: 7px;
+    background-color: rgb(233, 203, 121);
+    padding-top: 50px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    padding-right: 200px;
+
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-bottom: 200px;
+    margin-right: 200px;
+}

@@ -1,0 +1,19 @@
+#p1 {
+    text-align: center;
+    color :red;
+}
+#p2 {
+    text-align: left;
+    font-size: 50px;
+    color:green;
+    background-color: greenyellow;
+}
+#p3 {
+    text-align: right;
+    font-size: 70px;
+    color: grey;
+    background-color: khaki;
+}
+#body {
+    background-color: lightblue;
+}
